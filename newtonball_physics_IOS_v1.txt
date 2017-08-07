@@ -8,8 +8,8 @@
      "name": "1.0.0",
     "title":"Do you want to update the latest version?",
     "content": "-fixed bugs",
-    "linkUpdate":"market://details?id=jkg.pushing.box",
-    "linkmoregame":"https://play.google.com/store/apps/developer?id=Tien+Tran+Pro"
+    "linkUpdate":"https://itunes.apple.com/us/app/stickman-warriors-heroes/id1178276983?mt=8",
+    "linkmoregame":"https://itunes.apple.com/us/developer/le-van-trong/id1178276982"
   }
 ,
 "game01":{
