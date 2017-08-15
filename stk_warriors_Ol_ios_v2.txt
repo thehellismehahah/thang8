@@ -8,7 +8,7 @@
      "name": "1.0.0",
     "title":"Do you want to update the latest version?",
     "content": "-fixed bugs",
-    "linkUpdate":"https://www.youtube.com/watch?v=WlBdz90jqHI",
+    "linkUpdate":"https://itunes.apple.com/us/app/stickman-fight-online/id1270617577?ls=1&mt=8",
     "linkmoregame":"https://itunes.apple.com/us/developer/tien-tran/id1249980980"
   }
 }
