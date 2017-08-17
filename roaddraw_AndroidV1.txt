@@ -1,0 +1,18 @@
+{
+"IsFake":false,
+"BannerID":"ca-app-pub-2307368916067173/6966969231",
+"InterstitialID":"ca-app-pub-2307368916067173/2520457768",
+"Version":{
+"Name":"1.0.1",
+"Title":"Do you want to update the latest version?",
+"Content":"Update some things",
+"Link":"market://details?id=jkg.pushing.box"
+},
+"MoreGames":[
+{
+"GameName":"Game 1",
+"LinkIcon":"Link Icon 1",
+"LinkGame":"Link Game 1"
+}
+]
+}
