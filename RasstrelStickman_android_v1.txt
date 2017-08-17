@@ -19,7 +19,7 @@
 }
 ,
 "game02":{
-  "GameName": "Brain It On",
+  "GameName": "Brain It On - the wood",
   "LinkGame": "market://details?id=com.brain.physicspuzzles",
   "LinkIcon": "https://lh3.googleusercontent.com/ORaQlX0DN_vDpHXDrPlc-fhZNLiiMGSMSwOUBPDo-vprg4BUZm3GpZOqvXl8_848dA=w150"
 }
