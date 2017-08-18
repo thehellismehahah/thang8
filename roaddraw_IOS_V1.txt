@@ -6,7 +6,7 @@
 "Name":"1.0.0",
 "Title":"Do you want to update the latest version?",
 "Content":"Update some things",
-"Link":"market://details?id=jkg.pushing.box"
+"Link":"https://itunes.apple.com/us/app/road-draw-hill-climb-racing/id1273106918?ls=1&mt=8"
 },
 "MoreGames":[
 {
