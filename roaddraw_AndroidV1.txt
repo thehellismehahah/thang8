@@ -6,7 +6,7 @@
 "Name":"1.0.0",
 "Title":"Do you want to update the latest version?",
 "Content":"Update some things",
-"Link":"market://details?id=jkg.pushing.box"
+"Link":"market://details?id=com.orbital.brainiton"
 },
 "MoreGames":[
 {
